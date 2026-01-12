@@ -5,4 +5,9 @@
     <loc>https://nacttch.github.io/website/map-main.xml</loc>
     <lastmod>2026-01-12</lastmod>
   </sitemap>
+
+  <sitemap>
+    <loc>https://nacttch.github.io/website/map-pages.xml</loc>
+    <lastmod>2026-01-12</lastmod>
+  </sitemap>
 </sitemapindex>
